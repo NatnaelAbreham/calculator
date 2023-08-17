@@ -1,5 +1,10 @@
 # simplecalculator
-This calculator is  builted using java and it include many features like swing,awt,predefined method for processing string and how event are handle in java
-the program divided into methods 
-getEquation() this get the input and break into character array,check for closing bracket when it get closing bracket ,it call a bracket method and call themself's recursively until a single number left
-
+ This calculator was built using java programming language.  
+This code shows  how to use Java API like swing, awt and  predefined methods.  
+additionally   
+how event are handled in java.  
+how to process string.  
+how to accept user input.  
+how to detect and handle invalid user input  in java.  
+This code break's into a number of methods:.  
+getEquation method  break's the input into character array and  pass value to bracket method and call recursively until a single value left, then the bracket method calculate and return back to the calling method.
